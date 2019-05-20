@@ -1,0 +1,28 @@
+/* body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+} */
+
+.form-control-borderless {
+  border: none;
+}
+
+.form-control-borderless:hover, .form-control-borderless:active, .form-control-borderless:focus {
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+
+.link-div{
+  width:100%;
+  padding-top: 1%;
+  padding-bottom: 1%
+}
+
+.link-div-container{
+  width:100%;
+}
