@@ -1,7 +1,7 @@
 {
-    "api_endpoint_base":"https://hudoc-poc.search.windows.net/indexes/azureblob-index/docs?api-version=2019-05-06",
+    "api_endpoint_base":"https://[service-name].search.windows.net/indexes/azureblob-index/docs?api-version=2019-05-06",
     "searchFields":"content",
-    "accessKey":"71E318E7BE61F34B5860A01736F7FBB1",
+    "accessKey":"",
     "docCount":"5",
     "selectFields":"metadata_storage_path,content",
     "maximumSampleLength":200
